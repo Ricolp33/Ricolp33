@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricolp33</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on [G-Dev-de](https://github.com/G-Dev-de)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ricolp33) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ricolp33) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Ricolp33) 
 
